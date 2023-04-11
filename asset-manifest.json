@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MinhajResturant-/static/css/main.aa19f8c1.css",
+    "main.js": "/MinhajResturant-/static/js/main.a5d6720b.js",
+    "index.html": "/MinhajResturant-/index.html",
+    "main.aa19f8c1.css.map": "/MinhajResturant-/static/css/main.aa19f8c1.css.map",
+    "main.a5d6720b.js.map": "/MinhajResturant-/static/js/main.a5d6720b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa19f8c1.css",
+    "static/js/main.a5d6720b.js"
+  ]
+}
